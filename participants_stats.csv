@@ -1,0 +1,23 @@
+name_ID,langugae,agent,group,familiar_with_agent,success_of_session,useful,experience,previous_used_search_method,appropriate_dataset
+User8_Berlin,German,ChatGPT4,Berlin,A little experience,Somewhat successful,Useful,A little experience,Freedom of Information Request;Personal recommendation;Google search;Data portal search;,I wasn't able to establish whether it was appropriate
+User3_2_Berlin,German,ChatGPT4,Berlin,A little experience,Somewhat successful,Useful,A little experience,Freedom of Information Request;Personal recommendation;,Yes
+User7_1_Berlin,German,ChatGPT4,Berlin,Expert,Somewhat successful,Useful,Expert,Google search;Data portal search;,Yes
+User1_Berlin,German,ChatGPT4,Berlin,A little experience,Unsuccessful,A little useful,A little experience,Data portal search;Google search;Freedom of Information Request;Personal recommendation;,No
+User2_2_Berlin,German,ChatGPT4,Berlin,Some experience,Somewhat successful,Neutral,Some experience,Freedom of Information Request;Personal recommendation;Google search;Data portal search;,Yes
+user1_Pilot,English,ChatGPT3.5,Pilot,Some experience,Somewhat successful,Useful,Some experience,Google search;Personal recommendation;Other;,Yes
+user2_Pilot,English,ChatGPT3.5,Pilot,Some experience,Somewhat successful,Useful,Some experience,Google search;Data portal search;Other;,No
+user3_Pilot,English,ChatGPT3.5,Pilot,Some experience,Somewhat successful,A little useful,Some experience,Have not previously searched for datasets;,No
+user4_Pilot,English,ChatGPT3.5,Pilot,Some experience,Somewhat successful,Unhelpful,Some experience,Google search;Other;,No
+user5_Pilot,English,ChatGPT3.5,Pilot,A little experience,Successful,Useful,A little experience,Google search;,Yes
+user6_Pilot,English,ChatGPT3.5,Pilot,Very experienced,Unsuccessful,Unhelpful,Very esperienced,Google search;Data portal search;Personal recommendation;,No
+user7_Pilot,English,ChatGPT3.5,Pilot,A little experience,Somewhat successful,Useful,A little experience,Google search;Data portal search;Personal recommendation;,Yes
+user8_Pilot,English,ChatGPT3.5,Pilot,Very experienced,Somewhat successful,A little useful,Very esperienced,Data portal search;Google search;,Yes
+user9_Pilot,English,ChatGPT3.5,Pilot,Very experienced,Somewhat successful,Useful,Very esperienced,Google search;Data portal search;,Yes
+participant9_London,English,Bard,London,Some experience,Successful,Useful,Some experience,Data portal search;Google search;Personal recommendation;,Yes
+participant8_London,English,Bard,London,A little experience,Somewhat successful,Useful,A little experience,Data portal search;Google search;,Yes
+participant5_London,English,Bard,London,A little experience,Unsuccessful,A little useful,A little experience,Google search;Data portal search;Personal recommendation;,Yes
+participant6_London,English,Bard,London,A little experience,Successful,Useful,A little experience,Google search;,I wasn't able to establish whether it was appropriate
+participant7_London,English,Bard,London,No experience,Somewhat successful,Useful,No experience,Google search;Personal recommendation;,No
+participant3_London,English,Bard,London,Some experience,Somewhat successful,Useful,Some experience,Data portal search;Google search;Personal recommendation;Freedom of Information Request;Specific government and business websites;,Yes
+participant2_London,English,Bard,London,Some experience,Somewhat successful,Useful,Some experience,Data portal search;Google search;Personal recommendation;Freedom of Information Request;,Yes
+participant1_London,English,Bard,London,A little experience,Unsuccessful,A little useful,A little experience,Data portal search;Personal recommendation;Google search;,No

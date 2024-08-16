@@ -1,0 +1,28 @@
+name_ID,num_questions,mean_question_length,mean_answer_length,langugae,agent,group,familiar_with_agent,success_of_session,useful,previous_used_search_method
+User8_Berlin,17,12.52941176,163,German,ChatGPT4,Berlin,A little experience,Somewhat successful,Useful,Freedom of Information Request;Personal recommendation;Google search;Data portal search;
+User3_2_Berlin,20,13,157.75,German,ChatGPT4,Berlin,A little experience,Somewhat successful,Useful,Freedom of Information Request;Personal recommendation;
+User3_1_Berlin,5,7.4,103.6,German,ChatGPT4,Berlin,A little experience,Somewhat successful,Useful,Freedom of Information Request;Personal recommendation;
+User7_1_Berlin,10,44.5,219.5,German,ChatGPT4,Berlin,Expert,Somewhat successful,Useful,Google search;Data portal search;
+User7_2_Berlin,13,25.76923077,192.5384615,German,ChatGPT4,Berlin,Expert,Somewhat successful,Useful,Google search;Data portal search;
+User2_1_Berlin,6,10.83333333,219.1666667,German,ChatGPT4,Berlin,Some experience,Somewhat successful,Neutral,Freedom of Information Request;Personal recommendation;Google search;Data portal search;
+User1_Berlin,23,14.13043478,173.9130435,German,ChatGPT4,Berlin,A little experience,Unsuccessful,A little useful,Data portal search;Google search;Freedom of Information Request;Personal recommendation;
+User2_2_Berlin,1,9,293,German,ChatGPT4,Berlin,Some experience,Somewhat successful,Neutral,Freedom of Information Request;Personal recommendation;Google search;Data portal search;
+User2_3_Berlin,7,58.85714286,251,German,ChatGPT4,Berlin,Some experience,Somewhat successful,Neutral,Freedom of Information Request;Personal recommendation;Google search;Data portal search;
+User2_4_Berlin,3,32.66666667,78.66666667,German,ChatGPT4,Berlin,Some experience,Somewhat successful,Neutral,Freedom of Information Request;Personal recommendation;Google search;Data portal search;
+user1_Pilot,4,10.5,158.25,English,ChatGPT3.5,Pilot,Some experience,Somewhat successful,Useful,Google search;Personal recommendation;Other;
+user2_Pilot,4,23.75,315.25,English,ChatGPT3.5,Pilot,Some experience,Somewhat successful,Useful,Google search;Data portal search;Other;
+user3_Pilot,11,12.27272727,146.8181818,English,ChatGPT3.5,Pilot,Some experience,Somewhat successful,A little useful,Have not previously searched for datasets;
+user4_Pilot,7,19.85714286,212.4285714,English,ChatGPT3.5,Pilot,Some experience,Somewhat successful,Unhelpful,Google search;Other;
+user5_Pilot,1,12,139,English,ChatGPT3.5,Pilot,A little experience,Successful,Useful,Google search;
+user6_Pilot,7,17.42857143,214.4285714,English,ChatGPT3.5,Pilot,Very experienced,Unsuccessful,Unhelpful,Google search;Data portal search;Personal recommendation;
+user7_Pilot,14,15.21428571,122.3571429,English,ChatGPT3.5,Pilot,A little experience,Somewhat successful,Useful,Google search;Data portal search;Personal recommendation;
+user8_Pilot,3,41.66666667,400.3333333,English,ChatGPT3.5,Pilot,Very experienced,Somewhat successful,A little useful,Data portal search;Google search;
+user9_Pilot,4,9.75,218.25,English,ChatGPT3.5,Pilot,Very experienced,Somewhat successful,Useful,Google search;Data portal search;
+participant9_London,3,28.66666667,830.3333333,English,Bard,London,Some experience,Successful,Useful,Data portal search;Google search;Personal recommendation;
+participant8_London,14,20.92857143,247.7142857,English,Bard,London,A little experience,Somewhat successful,Useful,Data portal search;Google search;
+participant5_London,8,15.25,611.625,English,Bard,London,A little experience,Unsuccessful,A little useful,Google search;Data portal search;Personal recommendation;
+participant6_London,16,14.3125,256.0625,English,Bard,London,A little experience,Successful,Useful,Google search;
+participant7_London,11,12.36363636,303.1818182,English,Bard,London,No experience,Somewhat successful,Useful,Google search;Personal recommendation;
+participant3_London,12,22.25,179.1666667,English,Bard,London,Some experience,Somewhat successful,Useful,Data portal search;Google search;Personal recommendation;Freedom of Information Request;Specific government and business websites;
+participant2_London,33,11.45454545,182.8787879,English,Bard,London,Some experience,Somewhat successful,Useful,Data portal search;Google search;Personal recommendation;Freedom of Information Request;
+participant1_London,11,10.90909091,187.1818182,English,Bard,London,A little experience,Unsuccessful,A little useful,Data portal search;Personal recommendation;Google search;
